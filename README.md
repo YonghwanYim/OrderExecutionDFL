@@ -1,4 +1,6 @@
-# Optimizing Sequential Predictions for Order Execution: a Decision-Focused Learning Approach
+## Paper
+
+**[Optimizing Sequential Predictions for Order Execution: a Decision-Focused Learning Approach](https://dl.acm.org/doi/abs/10.1145/3677052.3698665)** 
 
 ## Getting Started
 
