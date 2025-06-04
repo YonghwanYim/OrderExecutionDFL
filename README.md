@@ -14,3 +14,10 @@ https://github.com/yuqinie98/PatchTST
 
 https://github.com/cure-lab/LTSF-Linear
 
+## Citation & Original Repository
+
+This repository is a fork of the original implementation of the paper
+
+Please cite and refer to the original GitHub repository if you use this code:
+
+🔗 [https://github.com/sunminkweon/OrderExecutionDFL](https://github.com/sunminkweon/OrderExecutionDFL)
